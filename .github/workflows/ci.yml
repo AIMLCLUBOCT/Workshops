@@ -1,0 +1,45 @@
+name: CI - Workshops Validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate Markdown & Secret Scanning
+        run: |
+          python -c "
+          import os, glob, re
+          secret_patterns = [r'(?i)api[_-]?key\s*[:=]\s*[\'\"][a-zA-Z0-9_\-]{20,}[\'\"]', r'ghp_[a-zA-Z0-9]{36}']
+          for path in glob.glob('**/*.md', recursive=True):
+              with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+                  content = f.read()
+                  for pattern in secret_patterns:
+                      if re.search(pattern, content):
+                          raise ValueError(f'Potential secret pattern detected in {path}')
+          print('Markdown security scan clean!')
+          "
+
+      - name: Verify Notebook JSON Integrity
+        run: |
+          python -c "
+          import glob, json
+          notebooks = glob.glob('**/*.ipynb', recursive=True)
+          for nb_path in notebooks:
+              with open(nb_path, 'r', encoding='utf-8') as f:
+                  data = json.load(f)
+                  assert 'cells' in data, f'Invalid notebook structure in {nb_path}'
+          print(f'Verified {len(notebooks)} Jupyter notebooks successfully!')
+          "
