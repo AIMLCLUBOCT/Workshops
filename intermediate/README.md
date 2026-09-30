@@ -16,6 +16,7 @@
 - **Topics:** Image filtering, contour detection, webcam video streaming, and running inference with Ultralytics YOLO.
 - **Duration:** 3 Hours
 - **Prerequisites:** Python, basic deep learning intuition.
+- **Interactive Lab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/intermediate/notebooks/02_opencv_computer_vision_starter.ipynb) [`02_opencv_computer_vision_starter.ipynb`](./notebooks/02_opencv_computer_vision_starter.ipynb)
 
 ### 3. Natural Language Processing with Hugging Face
 - **Topics:** Word embeddings, tokenization algorithms, fine-tuning pre-trained transformer models for text classification.

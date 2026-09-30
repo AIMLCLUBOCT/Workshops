@@ -10,6 +10,7 @@
 - **Topics:** Document chunking, dense vector embeddings, vector databases (ChromaDB), semantic similarity search, and prompt grounding.
 - **Duration:** 3.5 Hours
 - **Prerequisites:** Python, intermediate NLP.
+- **Interactive Lab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/advanced/notebooks/01_rag_retrieval_augmented_generation.ipynb) [`01_rag_retrieval_augmented_generation.ipynb`](./notebooks/01_rag_retrieval_augmented_generation.ipynb)
 
 ### 2. Autonomous AI Agents: Reasoning, Planning & Tool Use
 - **Topics:** ReAct patterns, tool-calling function schemas, stateful agent graphs with LangGraph, and automated web research workflows.
@@ -24,4 +25,14 @@
 ---
 
 ## 🚀 How to Run
-Cloning instructions and virtual environment setup are detailed in the [Workshops Root README](../README.md).
+
+### In the Cloud (Free GPU / No Setup):
+Click the **Open in Colab** badge above to execute directly in your browser.
+
+### Locally on Your Machine:
+```bash
+git clone https://github.com/AIMLCLUBOCT/Workshops.git
+cd Workshops/advanced
+pip install sentence-transformers numpy jupyterlab
+jupyter lab notebooks/
+```
