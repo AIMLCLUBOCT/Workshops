@@ -104,5 +104,6 @@ Are you leading a club workshop or proposing a hands-on session? Please review o
 - **Official Website:** [aimlcluboct.in](https://aimlcluboct.in)
 - **Digital Hub & Socials:** [social.aimlcluboct.in](https://social.aimlcluboct.in)
 - **Upcoming Workshops:** [aimlcluboct.in/events](https://aimlcluboct.in/events)
+- 📸 **Workshop Moments & Photo Gallery:** [Google Drive Photo Archive](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing)
 - **Suggest a Workshop Topic:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
 - **Email:** [aimlcluboct@gmail.com](mailto:aimlcluboct@gmail.com)
