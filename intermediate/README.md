@@ -7,9 +7,10 @@
 ## 📚 Curriculum & Available Workshops
 
 ### 1. Deep Learning with PyTorch: Tensors to Convolutional Networks
-- **Topics:** PyTorch tensor operations, `autograd`, building a custom `nn.Module`, writing training loops, and training a CNN on CIFAR-10.
+- **Topics:** PyTorch tensor operations, `autograd`, building a custom `nn.Module`, writing training loops, and training an MLP / CNN.
 - **Duration:** 3 Hours
 - **Prerequisites:** Python OOP, NumPy, calculus basics.
+- **Interactive Lab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/intermediate/notebooks/01_pytorch_deep_learning_starter.ipynb) [`01_pytorch_deep_learning_starter.ipynb`](./notebooks/01_pytorch_deep_learning_starter.ipynb)
 
 ### 2. Real-Time Vision & Object Detection with OpenCV and YOLO
 - **Topics:** Image filtering, contour detection, webcam video streaming, and running inference with Ultralytics YOLO.
@@ -24,4 +25,14 @@
 ---
 
 ## 🚀 How to Run
-Cloning instructions and virtual environment setup are detailed in the [Workshops Root README](../README.md).
+
+### In the Cloud:
+Click the **Open in Colab** badge above to run with free GPU acceleration.
+
+### Locally on Your Machine:
+```bash
+git clone https://github.com/AIMLCLUBOCT/Workshops.git
+cd Workshops/intermediate
+pip install torch torchvision numpy matplotlib jupyterlab
+jupyter lab notebooks/
+```
