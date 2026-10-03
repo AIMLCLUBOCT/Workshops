@@ -9,7 +9,8 @@
 <br/><br/>
 
 [![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#workshops)
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![Live Activities](https://img.shields.io/badge/Live_Activities-Student_Radar-FF6B6B?style=for-the-badge&logo=rss)](https://aimlcluboct.github.io/#activities)
+[![AI & Machine Learning Club](https://img.shields.io/badge/AI_%26_ML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](#running-notebooks-in-the-cloud)
 
@@ -17,9 +18,12 @@
 
 ---
 
+> [!IMPORTANT]
+> **📢 Live Student Notice & Activity Board:** Check our **[Live Activities Radar on aimlcluboct.github.io/#activities ↗](https://aimlcluboct.github.io/#activities)** for upcoming workshop dates, live Colab session links, and student registrations!
+
 ## Overview
 
-The **Workshops** repository houses the code, slide decks, datasets, and interactive notebooks developed for AIML Club OCT's live coding sessions, weekend bootcamps, and technical workshops.
+The **Workshops** repository houses the code, slide decks, datasets, and interactive notebooks developed for the **AI & Machine Learning Club (AIML Club OCT)**, **Oriental College of Technology, Bhopal**.
 
 Unlike abstract lecture slides, every workshop folder provides **reproducible code** and **self-contained environments** that attendees can run locally or directly in their browsers using Google Colab.
 
