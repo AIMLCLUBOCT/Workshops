@@ -21,9 +21,10 @@ Unlike abstract lecture slides, every workshop folder provides **reproducible co
 Explore workshop materials based on your experience:
 
 - 🟢 [**Beginner Workshops (`beginner/`)**](./beginner/):
-  - *Python for AI & Scientific Computing*
-  - *Data Wrangling with Pandas & Visual Storytelling*
-  - *Intro to Machine Learning: From Data to Decision Trees*
+  - **1. Python for AI & Vectorized Computing** ([`01_python_numpy_basics.ipynb`](./beginner/notebooks/01_python_numpy_basics.ipynb)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/01_python_numpy_basics.ipynb)
+  - **2. Exploratory Data Analysis & Visual Storytelling** ([`02_exploratory_data_analysis.ipynb`](./beginner/notebooks/02_exploratory_data_analysis.ipynb)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/02_exploratory_data_analysis.ipynb)
+  - **3. Intro to Machine Learning: From Zero to Classification** ([`03_intro_machine_learning.ipynb`](./beginner/notebooks/03_intro_machine_learning.ipynb)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/03_intro_machine_learning.ipynb)
+  - **4. NLP & Sentiment Analysis: Text Classification with Scikit-Learn** ([`04_nlp_sentiment_analysis.ipynb`](./beginner/notebooks/04_nlp_sentiment_analysis.ipynb)) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/04_nlp_sentiment_analysis.ipynb)
 - 🟡 [**Intermediate Workshops (`intermediate/`)**](./intermediate/):
   - *Deep Learning Fundamentals with PyTorch*
   - *Real-Time Computer Vision & Object Detection with OpenCV and YOLO*
