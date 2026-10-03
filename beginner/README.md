@@ -24,6 +24,12 @@
 - **Prerequisites:** Python and basic statistics.
 - **Interactive Lab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/03_intro_machine_learning.ipynb) [`03_intro_machine_learning.ipynb`](./notebooks/03_intro_machine_learning.ipynb)
 
+### 4. NLP & Sentiment Analysis: Text Classification with Scikit-Learn
+- **Topics:** Text cleaning, tokenization, TF-IDF feature extraction, Multinomial Naive Bayes, and interactive model inference.
+- **Duration:** 2.5 Hours
+- **Prerequisites:** Python and introductory classification concepts.
+- **Interactive Lab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLCLUBOCT/Workshops/blob/main/beginner/notebooks/04_nlp_sentiment_analysis.ipynb) [`04_nlp_sentiment_analysis.ipynb`](./notebooks/04_nlp_sentiment_analysis.ipynb)
+
 ---
 
 ## 🚀 How to Run
