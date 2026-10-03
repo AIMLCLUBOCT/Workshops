@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=230&section=header&text=AIML%20Workshops%20Hub&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Workshops Hub Header" width="100%"/>
+
 # 🛠️ AIML Club OCT Workshops Hub
 
-> Interactive Jupyter notebooks, lecture slides, datasets, and practical coding exercises from hands-on technical bootcamps conducted by the **AI & Machine Learning Club – Oriental College of Technology, Bhopal**.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Interactive+Jupyter+Notebooks+%E2%80%A2+Hands-on+Coding+Labs;1-Click+Google+Colab+Execution+%E2%80%A2+Free+GPU+Acceleration;Python+Vectorization+%E2%80%A2+Data+Wrangling+%E2%80%A2+ML+%E2%80%A2+NLP+Sentiment" alt="Typing Tagline"/>
 
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
+<br/><br/>
+
+[![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#workshops)
+[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](#running-notebooks-in-the-cloud)
+
+</div>
 
 ---
 
@@ -108,3 +117,9 @@ Are you leading a club workshop or proposing a hands-on session? Please review o
 - 📸 **Workshop Moments & Photo Gallery:** [Google Drive Photo Archive](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing)
 - **Suggest a Workshop Topic:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
 - **Email:** [aimlcluboct@gmail.com](mailto:aimlcluboct@gmail.com)
+
+<br/>
+<div align="center">
+<sub>© 2026 AI & Machine Learning Club – Oriental College of Technology, Bhopal.</sub><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=100&section=footer" width="100%"/>
+</div>
